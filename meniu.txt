@@ -1,0 +1,7 @@
+MicDejun{gramaj=500.0, incrediente=[carne, salata, varza], idProdus=123, disponibil=true, pret=12.0, numarProduse=14, denumireProdus='Sarmale'}
+Pranz{gramaj=1000.0, incrediente=[carne, salata, varza], idProdus=123333, disponibil=true, pret=12.0, numarProduse=124, denumireProdus='Salata'}
+Pranz{gramaj=1000.0, incrediente=[carne, salata, varza], idProdus=133, disponibil=true, pret=12.0, numarProduse=124, denumireProdus='Salata'}
+Pranz{gramaj=1000.0, incrediente=[carne, salata, varza], idProdus=13334, disponibil=true, pret=12.0, numarProduse=124, denumireProdus='Salata'}NonAlcoolice{tipBautura='Calda', temperatura='das', producator='Coca-Cola', cantitate=1000.0, continut='sadasddsadasd', tipServire='laPahar', idProdus=123242421, disponibil=true, pret=15.0, numarProduse=123, denumireProdus='cola'}
+NonAlcoolice{tipBautura='Calda', temperatura='das', producator='Coca-Cola', cantitate=1000.0, continut='sadasddsadasd', tipServire='laPahar', idProdus=123242421, disponibil=true, pret=15.0, numarProduse=123, denumireProdus='cola'}
+Alcoolice{alcool=12.0, producator='dsadsa', cantitate=1000.0, continut='sadasddsadasd', tipServire='laPahar', idProdus=12, disponibil=true, pret=15.0, numarProduse=121, denumireProdus='BEre'}
+Alcoolice{alcool=12.0, producator='dsadsa', cantitate=1000.0, continut='sadasddsadasd', tipServire='laPahar', idProdus=333222222, disponibil=true, pret=15.0, numarProduse=123, denumireProdus='BEre'}
